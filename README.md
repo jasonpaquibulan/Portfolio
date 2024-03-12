@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS, Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://jasonpaquibulan.github.io/portfolio/](https://jasonpaquibulan.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [jasonpaquibulan.github.io/portfolio/](https://jasonpaquibulan.github.io/portfolio/)
 
 - 💬 Ask me about **AI, Machine Learning, Python**
 
