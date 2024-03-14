@@ -11,7 +11,7 @@
 
 - 📫 You can reach me at **jasonspaquibulan@gmail.com**
 
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/jsp01/)
+- 📄 Know about my work experiences on [LinkedIn](https://www.linkedin.com/in/jsp01/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
