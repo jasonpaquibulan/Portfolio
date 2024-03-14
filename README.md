@@ -25,10 +25,15 @@ This repository contains a collection of projects showcasing my skills and accom
 - **Location:** Mandaue City, Cebu / Philippines
 - **Duration:** June 2023 – Present
 
-At Vivant Corporation, I've made significant contributions to enhancing operational efficiency and driving revenue growth through innovative data science solutions. Highlights include:
+At Vivant Corporation, I've made significant contributions to 
+**enhancing operational efficiency, 
+improved sales process resulting in accelerated customer acquisition 
+and driving revenue growth through innovative data science solutions**. 
 
-- Improved Sales Process: Developed data science solutions that reduced processing time from days to minutes, resulting in accelerated customer acquisition and a net income increase of over PhP 80 Million in 2023.
+Highlights include:
+
 - Python Portfolio RAROC Model: Collaborated with Zachary Bisenio to transform the simulation process from MS Excel to Python, significantly improving simulation speed from 3-5 days to 5-7 minutes per Customer Simulation, leading to a revenue increase of over PhP 400 Million in 2023.
+
 - Portfolio RAROC Power BI Dashboard: Streamlined and automated customer analysis, reducing processing time from 1 day to 1-3 minutes using Python and Power BI, contributing to revenue growth exceeding PhP 400 Million in 2023.
 
 ### AI, Machine Learning, and Other Passion Projects
