@@ -1,5 +1,5 @@
 title: Jason's Portfolio Projects
-logo: 
-description: text below image
-show_downloads: false
+logo: assets/Untitled design.png
+description: AI and ML Data Scientist
+show_downloads: True
 theme: jekyll-theme-minimal
