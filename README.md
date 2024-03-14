@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS, Computer Vision, NLP**
 
-- 👨‍💻 All of my projects are available at my [Github](https://jasonpaquibulan.github.io/Portfolio/) and [LinkedIn](https://www.linkedin.com/in/jsp01/)
+- 👨‍💻 All of my projects are available at my [Github](https://github.com/jasonpaquibulan/Portfolio/tree/main) and [LinkedIn](https://www.linkedin.com/in/jsp01/)
 
 - 💬 Ask me about **AI, Machine Learning, Python**
 
