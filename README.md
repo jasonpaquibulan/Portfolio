@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jason Paquibulan</h1>      
 <h3 align="center">AI and ML Data Scientist from Philippines</h3>
 
-- 🔭 I’m currently working on [computer vision project](computervision.com)
+- 🔭 I’m currently working on **Computer Vision Project**
 
-- 🌱 I’m currently learning **AWS, Computer Vision**
+- 🌱 I’m currently learning **AWS, Computer Vision, NLP**
 
-- 👨‍💻 All of my projects are available at [jasonpaquibulan.github.io/portfolio/](https://jasonpaquibulan.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at my [Github](https://jasonpaquibulan.github.io/Portfolio/) and [LinkedIn](https://www.linkedin.com/in/jsp01/)
 
 - 💬 Ask me about **AI, Machine Learning, Python**
 
-- 📫 How to reach me **jasonspaquibulan@gmail.com**
+- 📫 You can reach me at **jasonspaquibulan@gmail.com**
 
-- 📄 Know about my experiences [https://jasonpaquibulan.github.io/portfolio/](https://jasonpaquibulan.github.io/portfolio/)
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/jsp01/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
