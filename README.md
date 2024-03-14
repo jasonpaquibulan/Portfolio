@@ -38,43 +38,43 @@ In addition to my core responsibilities, I've undertaken various passion project
 
 Highlights include:
 
-- **AI Computer Vision using Tensorflow:** Developed an AI Early Fire Detection Model leveraging Tensorflow frameworks to detect early stages of fires.[see Project]()
+- **AI Computer Vision using Tensorflow:** Developed an AI Early Fire Detection Model leveraging Tensorflow frameworks to detect early stages of fires.[see Project](https://github.com/jasonpaquibulan/Portfolio/blob/main/4.%20AI%20Computer%20Vision%20using%20Tensorflow/Computer_Vision_Early_Fire_Detection_%20(1).ipynb)
 
-- **AI Customized ChatBot:** Created an AI ChatBot using the OPENAI API to enhance customer interaction and support.[see Project]()
+- **AI Customized ChatBot:** Created an AI ChatBot using the OPENAI API to enhance customer interaction and support.[see Project](https://github.com/jasonpaquibulan/Portfolio/blob/main/5.%20AI%20Customized%20ChatBot/Code%20Snippet.png)
 
-- **AI Audio Transcriptor:** Developed an audio transcription tool using the OPENAI API for efficient conversion of audio data into text.[see Project]()
+- **AI Audio Transcriptor:** Developed an audio transcription tool using the OPENAI API for efficient conversion of audio data into text.[see Project](https://github.com/jasonpaquibulan/Portfolio/blob/main/6.%20AI%20Audio%20Transcriptor/Code%20Snippet.png)
   
-- [API Data Extraction from ASANA API - Google API]()
+- [API Data Extraction from ASANA API - Google API](https://github.com/jasonpaquibulan/Portfolio/blob/main/8.%20API%20Data%20Extraction%20from%20ASANA%20API%20-%20Google%20API/Google_Sheets_Extraction.ipynb)
   
-- [ASANA API Access]()
+- [ASANA API Access](https://github.com/jasonpaquibulan/Portfolio/blob/main/9.%20ASANA%20API%20%20Access/ASANA_API_Access_Project.ipynb)
 
-- [MOPS Fuel Volatility Forecasting using GARCH Model]()
+- [MOPS Fuel Volatility Forecasting using GARCH Model](https://github.com/jasonpaquibulan/Portfolio/blob/main/10.%20MOPS%20Fuel%20Volatility%20Forecast%20using%20GARCH%20Model/fuel-forecast-garch-model.ipynb)
   
-- [MOPS Fuel Prices Time Forecasting using XGBoost and Facebook Prophet]()
+- [MOPS Fuel Prices Time Forecasting using XGBoost and Facebook Prophet](https://github.com/jasonpaquibulan/Portfolio/blob/main/11.%20MOPS%20Fuel%20Prices%20Time%20Forecasting%20using%20XGBoost%20and%20Facebook%20Prophet/using%20XGBoost%20and%20Facebook%20Prophet.ipynb)
 
 ## Data Analytics Projects
 
-- [Streamline End-to-End Data Analytics Dashboard Project: Collecting Earthquake Data from Phivolcs]()
+- **Streamline End-to-End Data Analytics Dashboard Project:** Collecting Earthquake Data from Phivolcs, Processing data by Data Cleaning and Transformation, then storing it to PostgreSQL, then using Power BI to Access PostgreSQL then make a Dashboard with it.[see Project](https://www.linkedin.com/posts/jsp01_philippine-earthquake-analytics-dashboard-activity-7058802695880523776-Q0sx?utm_source=share&utm_medium=member_desktop)
   
-- [Power BI Dashboard Project: E-Commerce Dashboard (Olist a Brazilian E-Commerce Company)]()
+- [Power BI Dashboard Project: E-Commerce Dashboard (Olist a Brazilian E-Commerce Company)](https://www.linkedin.com/in/jsp01/details/featured/1635521262502/single-media-viewer/?profileId=ACoAACUdmBAB7kLboV_hhjXSnFStQZvDXB-CYsY)
   
-- [ETL Project: WebAPI Extracting, Transformation and Loading]()
+- [ETL Project: WebAPI Extracting, Transformation and Loading](https://www.linkedin.com/in/jsp01/overlay/1635522243802/single-media-viewer/?profileId=ACoAACUdmBAB7kLboV_hhjXSnFStQZvDXB-CYsY)
   
-- [ETL Project: HTML Extracting, Transformation and Loading]()
+- [ETL Project: HTML Extracting, Transformation and Loading](https://www.linkedin.com/in/jsp01/overlay/1635521906176/single-media-viewer/?profileId=ACoAACUdmBAB7kLboV_hhjXSnFStQZvDXB-CYsY)
   
-- [Python Data Analysis Project: Motor Vehicle Collision Analysis (New York Open Data)]()
+- [Python Data Analysis Project: Motor Vehicle Collision Analysis (New York Open Data)](https://www.linkedin.com/in/jsp01/details/featured/1635520604237/single-media-viewer/?profileId=ACoAACUdmBAB7kLboV_hhjXSnFStQZvDXB-CYsY)
 
 ## SQL Projects
 
-- [Investment Dataset]()
-- [Credit Card Dataset]()
-- [House Property Sales Dataset]()
-- [BelulaCare Ecom Company Sales Dataset]()
-- [Yellevate Company]()
+- [Investment Dataset](https://www.linkedin.com/in/jsp01/details/featured/1635520603091/single-media-viewer/?profileId=ACoAACUdmBAB7kLboV_hhjXSnFStQZvDXB-CYsY)
+- [Credit Card Dataset](https://www.linkedin.com/in/jsp01/details/featured/1635520602448/single-media-viewer/?profileId=ACoAACUdmBAB7kLboV_hhjXSnFStQZvDXB-CYsY)
+- [House Property Sales Dataset](https://www.linkedin.com/in/jsp01/details/featured/1635520599842/single-media-viewer/?profileId=ACoAACUdmBAB7kLboV_hhjXSnFStQZvDXB-CYsY)
+- [BelulaCare Ecom Company Sales Dataset](https://www.linkedin.com/in/jsp01/details/featured/1635520601543/single-media-viewer/?profileId=ACoAACUdmBAB7kLboV_hhjXSnFStQZvDXB-CYsY)
+- [Yellevate Company](https://www.linkedin.com/in/jsp01/details/featured/1635520603158/single-media-viewer/?profileId=ACoAACUdmBAB7kLboV_hhjXSnFStQZvDXB-CYsY)
 
 ## R Project
 
-- [Analyzing Factors that could Indicate Malignancy in Breast Tumors]()
+- [Analyzing Factors that could Indicate Malignancy in Breast Tumors](https://www.linkedin.com/in/jsp01/details/featured/1635520954958/single-media-viewer/?profileId=ACoAACUdmBAB7kLboV_hhjXSnFStQZvDXB-CYsY)
 
 
 <h3 align="left">Connect with me:</h3>
