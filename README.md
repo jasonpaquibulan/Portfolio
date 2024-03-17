@@ -24,7 +24,7 @@ At Vivant Corporation, I've made significant contributions to **enhancing operat
 
 Highlights include:
 
-- **Python Portfolio RAROC Model**: Collaborated with Zachary Bisenio to transform the simulation process from MS Excel to Python, significantly improving simulation speed from 3-5 days to 5-7 minutes per Customer Simulation resulting in faster customer acquisition. [see Project](https://github.com/jasonpaquibulan/Portfolio/blob/main/1.%20Python%20Portfolio%20RAROC%20Model/python_portfolio_raroc_model.py)
+- **Python Portfolio RAROC Model**: Improving Zachary Bisenio's simulation code that performs Customer Simulation resulting in faster customer acquisition. Upon taking over, I've improved the simulation speed to 70% faster with added Python code automations and code optimizations.[see Project](https://github.com/jasonpaquibulan/Portfolio/blob/main/1.%20Python%20Portfolio%20RAROC%20Model/python_portfolio_raroc_model.py)
 
 - **Portfolio RAROC Power BI Dashboard**: Streamlined and automated customer analysis, reducing processing time from 1 day to 1-3 minutes using Python and Power BI.**[see Project](https://github.com/jasonpaquibulan/Portfolio/blob/main/2.%20Portfolio%20RAROC%20Power%20BI%20Dashboard/DashPic4.png)
 
