@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason Paquibulan</h1>      
 <h3 align="center">AI and ML Data Scientist from Philippines</h3>
 
-- 🔭 I’m currently working on a [**Computer Vision Detect,Tracking and Counting**](https://github.com/jasonpaquibulan/Portfolio/blob/main/12.%20Object%20Detection%2C%20Tracking%20and%20Counting%20using%20Computer%20Vision%20Libraries/VideoPic2.png)
+- 🔭 I’m currently working on a [Computer Vision Project: Detect,Tracking and Counting](https://github.com/jasonpaquibulan/Portfolio/blob/main/12.%20Object%20Detection%2C%20Tracking%20and%20Counting%20using%20Computer%20Vision%20Libraries/VideoPic2.png)
 
 - 🌱 I’m currently learning **AWS, Computer Vision, NLP**
 
