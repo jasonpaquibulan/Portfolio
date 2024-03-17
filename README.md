@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason Paquibulan</h1>      
 <h3 align="center">AI and ML Data Scientist from Philippines</h3>
 
-- 🔭 I’m currently working on **Computer Vision Project**
+- 🔭 I’m currently working on a **State of the Art Computer Vision Models**
 
 - 🌱 I’m currently learning **AWS, Computer Vision, NLP**
 
@@ -24,9 +24,9 @@ At Vivant Corporation, I've made significant contributions to **enhancing operat
 
 Highlights include:
 
-- **Python Portfolio RAROC Model**: Collaborated with Zachary Bisenio to transform the simulation process from MS Excel to Python, significantly improving simulation speed from 3-5 days to 5-7 minutes per Customer Simulation resulting in faster customer acquisition that **generated more than PhP 80 Million 2023 Net Income After Tax.**[see Project](https://github.com/jasonpaquibulan/Portfolio/blob/main/1.%20Python%20Portfolio%20RAROC%20Model/python_portfolio_raroc_model.py)
+- **Python Portfolio RAROC Model**: Collaborated with Zachary Bisenio to transform the simulation process from MS Excel to Python, significantly improving simulation speed from 3-5 days to 5-7 minutes per Customer Simulation resulting in faster customer acquisition. [see Project](https://github.com/jasonpaquibulan/Portfolio/blob/main/1.%20Python%20Portfolio%20RAROC%20Model/python_portfolio_raroc_model.py)
 
-- **Portfolio RAROC Power BI Dashboard**: Streamlined and automated customer analysis, reducing processing time from 1 day to 1-3 minutes using Python and Power BI, contributing to **the generated revenue PhP 80 Million 2023 Net Income After Tax.**[see Project](https://github.com/jasonpaquibulan/Portfolio/blob/main/2.%20Portfolio%20RAROC%20Power%20BI%20Dashboard/DashPic4.png)
+- **Portfolio RAROC Power BI Dashboard**: Streamlined and automated customer analysis, reducing processing time from 1 day to 1-3 minutes using Python and Power BI.**[see Project](https://github.com/jasonpaquibulan/Portfolio/blob/main/2.%20Portfolio%20RAROC%20Power%20BI%20Dashboard/DashPic4.png)
 
 - **Artificial Intelligence ( AI ) Time Series Forecasting using AI (CNN+RNN+DNN)**: Generated Time Series Forecast used to make sure that proper risk management inside Python Portfolio RAROC is considered when dealing with Customers using AI (CNN+RNN+DNN) [see Project](https://github.com/jasonpaquibulan/Portfolio/blob/main/7.%20AI%20Time%20Series%20Forecasting(%20CNN%20%2B%20DNN%20%2B%20RNN)/AI%20Time%20Series%20Forecasting(%20CNN%20%2B%20DNN%20%2B%20RNN).ipynb)
 
