@@ -26,7 +26,7 @@ Highlights include:
 
 - **Python Portfolio RAROC Model**: Improving Zachary Bisenio's simulation code that performs Customer Simulation resulting in faster customer acquisition. Upon taking over, I've improved the simulation speed to 70% faster with added Python code automations and code optimizations.[see Project](https://github.com/jasonpaquibulan/Portfolio/blob/main/1.%20Python%20Portfolio%20RAROC%20Model/python_portfolio_raroc_model.py)
 
-- **Portfolio RAROC Power BI Dashboard**: Streamlined and automated customer analysis, reducing processing time from 1 day to 1-3 minutes using Python and Power BI.**[see Project](https://github.com/jasonpaquibulan/Portfolio/blob/main/2.%20Portfolio%20RAROC%20Power%20BI%20Dashboard/DashPic4.png)
+- **Portfolio RAROC Power BI Dashboard**: Streamlined and automated customer analysis, reducing processing time from 1 day to 1-3 minutes using Python and Power BI.[see Project](https://github.com/jasonpaquibulan/Portfolio/blob/main/2.%20Portfolio%20RAROC%20Power%20BI%20Dashboard/DashPic4.png)
 
 - **Artificial Intelligence ( AI ) Time Series Forecasting using AI (CNN+RNN+DNN)**: Generated Time Series Forecast used to make sure that proper risk management inside Python Portfolio RAROC is considered when dealing with Customers using AI (CNN+RNN+DNN) [see Project](https://github.com/jasonpaquibulan/Portfolio/blob/main/7.%20AI%20Time%20Series%20Forecasting(%20CNN%20%2B%20DNN%20%2B%20RNN)/AI%20Time%20Series%20Forecasting(%20CNN%20%2B%20DNN%20%2B%20RNN).ipynb)
 
