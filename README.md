@@ -23,11 +23,25 @@ At Vivant Corporation, I've made significant contributions to **enhancing operat
 
 Highlights include:
 
-- **Automated Data Engineering Pipeline: Google Sheets to AWS Redshift for CORENERGY**: Developed a fully automated data engineering pipeline to streamline data extraction from **Google Sheets to AWS Redshift using Apache Airflow, Docker, and Python**. The pipeline automates data flow from Google Sheets to AWS S3, then into Redshift for analytics. Using **VSCode for development and AWS CLI for deployment**, I containerized the solution with Docker and deployed it to an **EC2 instance via Amazon ECR**. This setup ensures a scalable, reliable infrastructure, enhancing data processing efficiency and enabling real-time data insights. The use of Airflow for task orchestration and Docker for containerization provides a robust and maintainable system.
+- **Automated Data Engineering Pipeline: Google Sheets to AWS Redshift for CORENERGY**:
+  Developed a fully automated data engineering pipeline to streamline data extraction from **Google Sheets to AWS Redshift using Apache Airflow, Docker, and Python**. The pipeline automates data flow from Google Sheets to AWS S3, then into Redshift for analytics.
+
+  Using **VSCode for development and AWS CLI for deployment**, I containerized the solution with Docker and deployed it to an **EC2 instance via Amazon ECR**.
+
+  This setup ensures a scalable, reliable infrastructure, enhancing data processing efficiency and enabling real-time data insights. The use of Airflow for task orchestration and Docker for containerization provides a robust and maintainable system.
   
-- **Business Intelligence Solution Development for CORENERGY**:I am doing the end-to-end Business Intelligence solution for Vivant Corporation's CORENERGY, integrating **AWS(Amazon Web Services) data warehousing, Python, and Power BI** to optimize data analysis and reporting.This project involves designing and implementing ETL pipelines using Python to automate data ingestion, transforming data from various sources, and storing it in AWS Redshift. Additionally, developing interactive Power BI dashboards to provide actionable insights for business decision-making. The solution enhances data-driven strategies, improves operational efficiency, and supports scalable analytics for the organization.
+- **Business Intelligence Solution Development for CORENERGY**:
+  I am doing the end-to-end Business Intelligence solution for Vivant Corporation's CORENERGY, integrating **AWS(Amazon Web Services) data warehousing, Python, and Power BI** to optimize data analysis and reporting.
+  This project involves designing and implementing ETL pipelines using Python to automate data ingestion, transforming data from various sources, and storing it in AWS Redshift.
+  Additionally, developing interactive Power BI dashboards to provide actionable insights for business decision-making. The solution enhances data-driven strategies, improves operational efficiency, and supports scalable analytics for the organization.
   
-- **Flask Web App for Sales Optimization: Reducing Turnaround Time from Days to Minutes**: Developed a Flask web application that reduced the turnaround time for sales calculations from 3-7 days to mere seconds. Previously, manual Python computations were required, but with this app, the sales team can input details and receive results instantly. Built using **Python and containerized with Docker, the app was deployed on AWS EC2 via the AWS CLI**, ensuring scalability and reliability. VSCode was used for development, streamlining the process from code to deployment. This solution significantly improved workflow efficiency, reduced backlogs, and enhanced decision-making speed for the sales department.
+- **Flask Web App for Sales Optimization: Reducing Turnaround Time from Days to Minutes**:
+  Developed a Flask web application that reduced the turnaround time for sales calculations from 3-7 days to mere seconds. Previously, manual Python computations were required, but with this app, the sales team can input details and receive results instantly.
+  
+  Built using **Python and containerized with Docker, the app was deployed on AWS EC2 via the AWS CLI**, ensuring scalability and reliability.
+  
+  VSCode was used for development, streamlining the process from code to deployment.
+  This solution significantly improved workflow efficiency, reduced backlogs, and enhanced decision-making speed for the sales department.
 
 - **Python Portfolio RAROC Model**: Improving Zachary Bisenio's simulation code that performs Customer Simulation resulting in faster customer acquisition. Upon taking over, I've improved the simulation speed to 70% faster with added Python code automations and code optimizations.[see Project](https://github.com/jasonpaquibulan/Portfolio/blob/main/1.%20Python%20Portfolio%20RAROC%20Model/python_portfolio_raroc_model.py)
 
