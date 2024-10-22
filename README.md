@@ -32,7 +32,9 @@ Highlights include:
   
 - **Business Intelligence Solution Development for CORENERGY**:
   I am doing the end-to-end Business Intelligence solution for Vivant Corporation's CORENERGY, integrating **AWS(Amazon Web Services) data warehousing, Python, and Power BI** to optimize data analysis and reporting.
+  
   This project involves designing and implementing ETL pipelines using Python to automate data ingestion, transforming data from various sources, and storing it in AWS Redshift.
+  
   Additionally, developing interactive Power BI dashboards to provide actionable insights for business decision-making. The solution enhances data-driven strategies, improves operational efficiency, and supports scalable analytics for the organization.
   
 - **Flask Web App for Sales Optimization: Reducing Turnaround Time from Days to Minutes**:
